@@ -5,7 +5,7 @@ export default function Navbar() {
     <div className="navbar">
     <nav id="navbar">
         <a href="https://www.linkedin.com/in/d-f-l-linton/" target="_blank"><p>LinkedIn</p></a>
-        <a href="https://github.com/DFLLinton" target="_blank"><p>Github </p></a>
+        <a href="https://github.com/DFLLinton" target="_blank"><p>Github</p></a>
     </nav>
     </div>
   );
